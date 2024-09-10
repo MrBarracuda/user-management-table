@@ -14,6 +14,10 @@
 - TanStack Table
 - shadcn/ui
 
+## Application Link
+
+https://user-management-table-assignment.vercel.app/
+
 ## Preview
 
 ![app-preview](app-preview.png)
